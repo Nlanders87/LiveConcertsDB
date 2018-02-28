@@ -11,8 +11,7 @@ namespace LiveConcertsDB.Models
         public string Band { get; set; }
         public string Venue { get; set; }
         public DateTime Date {get; set;}
-
-
+        
     }
 
 }
