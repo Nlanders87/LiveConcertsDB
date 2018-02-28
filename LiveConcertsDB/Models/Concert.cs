@@ -10,8 +10,7 @@ namespace LiveConcertsDB.Models
         public int ID { get; set; }
         public string Band { get; set; }
         public string Venue { get; set; }
-        public DateTime Date {get; set;}
-        
+        public DateTime Date {get; set;}        
     }
 
 }
